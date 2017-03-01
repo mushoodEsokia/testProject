@@ -1,0 +1,18 @@
+name: imdb
+type: theme
+description: 'A custom theme for practice with imdb like website'
+core: 8.x
+base theme: bartik
+
+regions:
+  header: Header
+  primary_menu: 'Primary menu'
+  secondary_menu: 'Secondary menu'
+  content: Content
+  sidebar_first: 'Sidebar first'
+  sidebar_second: 'Sidebar second'
+  footer_first: 'Footer first'
+  footer_fifth: 'Footer fifth'
+  mycustom: 'Mycustom'
+  right_side: 'Right side'
+  left_side: 'Left side'

@@ -1,0 +1,6 @@
+top_movie_show:
+  path: 'topmovie/show'
+  defaults:
+      _controller: '\Drupal\top_movie\Controller\defaultController::show'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,8 @@
+<?php 
+
+function fitness_preprocess_node(&$variables) {
+  $variables['customtitle'] = "my custom title";  
+  
+}
+
+

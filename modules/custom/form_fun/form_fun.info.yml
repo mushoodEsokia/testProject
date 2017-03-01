@@ -1,0 +1,4 @@
+name: form_fun
+type: module
+description: 'Enables the creation of fun form.'
+core: 8.x

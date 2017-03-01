@@ -1,0 +1,6 @@
+name: Top Movie
+type: module
+description: 'Demo for top movies.'
+package: Custom
+core: 8.x
+hidden: false

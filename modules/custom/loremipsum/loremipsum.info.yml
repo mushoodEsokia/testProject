@@ -1,0 +1,7 @@
+name: loremipsum
+type: module
+description: 'Auto generate lorem ipsum text'
+package: Custom
+core: 8.x
+hidden: false
+configure: loremipsum.form
